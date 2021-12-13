@@ -1,0 +1,23 @@
+## Interface: 30300
+## Title: khufosalert
+## Notes: alertsBoss
+## Version: v1.2.0
+## Author: khufos
+
+
+Frame.xml
+
+Code1.lua
+Code2.lua
+Code3.lua
+
+localization\koKR.lua
+localization\enUS.lua
+localization\deDE.lua
+localization\frFR.lua
+localization\zhCN.lua
+localization\zhTW.lua
+localization\ruRU.lua
+
+
+
